@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-webGl-1.0";
 const contentToCache = [
-    "Build/Builds.loader.js",
-    "Build/Builds.framework.js",
-    "Build/Builds.data",
-    "Build/Builds.wasm",
+    "Build/maccoop.github.io.loader.js",
+    "Build/maccoop.github.io.framework.js",
+    "Build/maccoop.github.io.data",
+    "Build/maccoop.github.io.wasm",
     "TemplateData/style.css"
 
 ];
